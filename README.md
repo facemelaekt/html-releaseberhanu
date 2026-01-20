@@ -1,2 +1,2 @@
 # html-releaseberhanu
-berhanu release done
+ release done
